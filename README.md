@@ -7,3 +7,5 @@ Detection efficiency and reliability for Roman Galactic Bulge Time Domain Survey
 Directory:
 - start-here.ipynb: start here if you are new to microlensing and want to follow a step-by-step guide for detecting and fitting a microlensing event.
 - analyze-events.ipynb: start here if you have fit a bunch of microlensing events and want to collect the results in a uniform table and analyze them. 
+- main-beginner-chris.ipynb: Data Challenge Beginner Tier notebook, with full workflow
+- reliability/reliability.ipynb: process and classify variability light curves created by RGES PIT WG6 (Stephan et al., in prep)
